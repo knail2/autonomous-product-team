@@ -1,0 +1,12 @@
+[
+    {
+	"model": "orca2",
+	"base_url": "http://localhost:3002/v1",
+        "api_key": "NULL"
+    },
+    {
+	"model": "deepseekcoder",
+        "base_url": "http://localhost:3003/v1",
+        "api_key": "NULL"
+    }
+]
