@@ -1,0 +1,7 @@
+[
+    {
+	"model": "orca2",
+	"base_url": "http://localhost:3010/v1",
+        "api_key": "NULL"
+    }
+]
