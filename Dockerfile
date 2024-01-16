@@ -9,10 +9,10 @@ COPY . /app
 
 # install packages
 #RUN pip install -r requirements.txt
-RUN pip install --trusted-host pypi.python.org pyautogen requests
+RUN pip install --trusted-host pypi.python.org pyautogen requests pandas
 RUN apt-get update && apt-get install -y iputils-ping net-tools
 
 # run cmd
-CMD ["python", "code/basic.py"]
+#CMD ["python", "code/basic.py"]
 
 

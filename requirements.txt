@@ -1,4 +1,6 @@
 torch
+transformers
+tiktoken
 docker
 pyautogen
 matplotlib
