@@ -1,6 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+OAI_CONFIG_LIST.json
+gh_auth_token
 *$py.class
 
 # C extensions
